@@ -3,5 +3,7 @@
 
 Numpy, Scikit-learn are mostly used.
 
-Following methods are implemented: Linear Regression, Ridge Regression, Lasso, SVMs (with various kernels),
+Following methods are implemented: Linear Regression, Ridge Regression, Logistic Regression, Lasso, SVMs (with various kernels), K-NN,
 Neural Networks.
+
+Projects were submitted as part of the group of 3, the best method/algorithm found by one of the members was submitted. Most of the code in these notebooks is written by me.
